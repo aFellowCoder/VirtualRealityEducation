@@ -10,3 +10,7 @@ Scene 2 - The practical scene, to apply the knowledge learned from scene 1. User
 
 ![scene2](https://user-images.githubusercontent.com/50074527/217903829-5529e5a1-fcdd-4081-9908-2e0a6abb1b6e.jpg)
 
+
+Metric 1: How user distraction data was gathered
+
+<img width="852" alt="distractionCubes" src="https://user-images.githubusercontent.com/50074527/217904660-610d511e-076b-479c-b26e-ea7507c6d425.png">

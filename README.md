@@ -1,4 +1,5 @@
 # VirtualRealityEducation
+
 Thesis to assess the viability of VR in formal education.
 
 Scene 1 - The theorical scene to teach the concept of gravity. Scene includes suitable custom environment, animation & narration.
